@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XBarcharUDT"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XBcprov"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XBcpkix"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XCmnsLogging"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XHawtjni"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJavassist"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJCTool"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJetty"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJZlib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XLog4j"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XLz4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XLzma"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XMashalling"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XNingCmps"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XProtobuf"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XRxtx"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XSlf4j"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XTomcat"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
