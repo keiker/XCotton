@@ -2,19 +2,19 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XCmnsCmps"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XCmnsCsv"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XDisruptor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJackson"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJansi"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/XJCommander"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJCTool"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJMail"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XJMS"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/XKafka"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/XOsgi"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/XPersistence"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XJackson"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/XStax"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XJMS"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/XZeroMQ"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XJansi"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XKafka"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XCmnsCmps"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XDisruptor"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XJCTool"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XCmnsCsv"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/XJMail"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
